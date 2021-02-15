@@ -23,4 +23,4 @@ npm run serve
 
 Project ini saling berkaitan dengan repository sekolah-backend, jika backend ini tidak dihidupkan ketika mencoba project front-end maka sekolah-frontend tidak akan menampilkan data, ini dikarenakan sekolah-frontend mengonsumsi API dari backend sebagai data yang ditampilkan
 
-* Jika ada gambar tidak terload, silahkan pastikan sudah menjalankan command symlink storage lalu upload ulang gambar, gambar" assets tersedia di dalam folder sekolah-backend\storage\app\public 
+* Jika ada gambar tidak terload, pastikan sudah menjalankan command symlink storage lalu upload ulang gambar, gambar" assets tersedia di dalam folder sekolah-backend/storage/app/public 
